@@ -1,0 +1,16 @@
+Frequently Asked Questions: Fraud Protection
+
+How do you protect my account from fraud?
+We use real-time transaction monitoring powered by machine learning to detect unusual spending patterns, two-factor authentication for online and mobile banking, and encryption for all data transmitted through our systems.
+
+What should I do if I suspect fraudulent activity on my account?
+Contact us immediately through the secure in-app messaging system, the fraud hotline, or by visiting a branch. Do not click links in unsolicited emails or texts claiming to be from us; we will never ask for your full password or PIN over email or phone.
+
+Will I be reimbursed for fraudulent transactions?
+Confirmed unauthorized transactions reported within 60 days of your statement date are covered under our zero-liability policy, and funds are typically restored within 10 business days pending investigation.
+
+How can I recognize a phishing attempt?
+Common signs include urgent language demanding immediate action, requests for your PIN or full card number, suspicious links, and sender addresses that don't match our official domain. When in doubt, contact us directly using the number on the back of your card rather than any number provided in the suspicious message.
+
+What tools can I use to monitor my own account for suspicious activity?
+You can enable real-time transaction alerts via SMS or push notification, set custom spending thresholds that trigger alerts, and review your transaction history regularly through the mobile app. Enabling biometric login also adds an extra layer of protection against unauthorized access.
