@@ -10,6 +10,8 @@ client = Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
 def ask(question):
     # Step 1: Retrieve relevant chunks using the search function we already built
     results = search(question, n_results=3)
+    if results is None:
+       return "I'm sorry, I don't have information on that in my knowledge base. Could you rephrase your question or ask something related to our banking services?"
 
     # Step 2: Build a context string from those chunks
     context = ""
@@ -31,5 +33,5 @@ def ask(question):
     return message.content[0].text
 
 if __name__ == "__main__":
-    answer = ask("What happens if my card is stolen?")
+    answer = ask("How to block my credit card")
     print(answer)
